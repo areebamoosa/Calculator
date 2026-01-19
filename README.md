@@ -21,3 +21,5 @@ This project helped me improve my understanding of JavaScript logic, functions, 
 ## Note
 
 - Built for desktop — responsiveness not included.
+
+### Live Demo: https://areebamoosa.github.io/Calculator/
